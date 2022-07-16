@@ -14,7 +14,7 @@ Depends on how many other SteamVR devices you use and the network environment. Y
 
 ## Can Tundra Trackers be used along other brands of SteamVR Trackers?
 
-As Tundra Trackers are SteamVR devices, you can use mixed trackers.
+Tundra Trackers can be used together with all other SteamVR trackers.
 
 
 
@@ -26,7 +26,7 @@ Chart/figures to be added.
 
 ## How long does a Tundra Tracker’s battery last if it’s fully charged?
 
-At least 9 hours on average.
+Between 9-11 hours on average.
 
 
 
